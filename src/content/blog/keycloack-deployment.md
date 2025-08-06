@@ -2,7 +2,7 @@
 title: 'Deploying Keycloak: A Step-by-Step Guide for Production'
 description: 'A comprehensive guide to installing and deploying Keycloak with PostgreSQL and NGINX.'
 pubDate: 'Aug 06 2025'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/keycloak-deploy.png'
 ---
 
 This document details how to install and deploy Keycloak in both development and production environments. The setup integrates PostgreSQL as the database and uses an NGINX reverse proxy for HTTPS access. This guide is intended for Debian and Ubuntu-based systems.
